@@ -12,3 +12,5 @@ create table json_tweets (
 	favorite_count int,
 	retweet_count int
 );
+select * from csv_tweets;
+select * from json_tweets;
