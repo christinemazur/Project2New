@@ -4,4 +4,4 @@ Purpose,
 What was completed (ETL),
 Easiest part,
 Hardest part,
-What we learned.
+What we learned..
